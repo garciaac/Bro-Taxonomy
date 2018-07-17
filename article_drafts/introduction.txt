@@ -32,11 +32,4 @@ Before I begin, a few disclaimers:
 
 For anyone who wants to know how I did this analysis, there is a link at the bottom of this post to the associated Github repository. It contains details on data sources, model specifications, explanations of parameter tuning, source code, etc.
 
-# The Bromain Archetypes
-# The Brototypical Schema
-
-Being such a diverse species, I had extraordinary difficulty quantifying what it means to be bro in its generalized form. Instead, this analysis focuses on a few key areas of the broader concept. After much deliberation, my friends, colleagues, and I came up with the following list of bro archetypes to include. It is by no means comprehensive, but I believe it captures many of the superspecies customary in the Unites States.
-
-!!! Insert bro descriptions
-
 
