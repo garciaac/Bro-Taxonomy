@@ -9,27 +9,27 @@ bromain <domain>
 
 I often ponder the bro. 
 
-He is an integral part of popular culture, especially at the time of this writing when social media is so prevalent in our lives. The <proliferation, broliferation> of bro-based Twitter, Instagram, etc. accounts exemplify how much the bro has contributed to modern popular culture. For example, if you do not follow the Chadtucket Instagram account !!! insert Chadtucket link !!!, do yourself a favor, click that link, follow them, and then come back to read the rest of this post. 
+He is an integral part of popular culture, especially at the time of this writing when social media is so prevalent in our lives. The <proliferation, broliferation> of bro-based Twitter, Instagram, etc. accounts exemplify how much the bro has contributed to modern popular culture and aided in my coping with the drudgery of everyday life. For example, if you do not follow the Chadtucket Instagram account !!! insert Chadtucket link !!!, do yourself a favor, click that link, follow them, and then come back to read the rest of this post. 
 
-As predominant as the bro is in modern day life, I never thought much as to what defines bro-ness. That is until my father set me on my path to my true <calling, brocation>. Years ago, I was speaking with my father and described someone as "a total bro", which I acknowlege is a total bro thing to say. My father, not knowing what I meant, asked a seemingly innocuous question: what is a bro? It left me asking myself the same question.
+As predominant as the bro is in modern day life, I never thought much as to what defines bro-ness. That is until my father set me on my path to my true <calling, brocation>. Years ago, I was speaking with my father and described someone as "a total bro", which I acknowlege is a total bro thing to say. My father, not knowing what I meant, asked a seemingly innocuous question: what is a bro? 
 
 After a moment of floudering, I came up with this description: a bro is someone who says "bro" a lot and over-indexes on getting into bar fights. It served the purposes of that conversation, but in hindsight, this is a gross over-simplification of societal dynamics that this analysis attempts to correct.
 
 To explain what is bro continued to fascinate me for longer than I care to admit. Later, I made my first breakthrough: a composite statistic that I coined as the Marina Bro Index. It was my first real attempt to quantify how much of a bro someone is. Specifically, it described bros who live in San Francisco's Marina neighborhood. The equation was
 
-(x + 3y + z^2) / x + y + z + 1
+(x + 2y + z^2) / (x + y + z + 1)
 
-where x, y, and z were all subjectively selected behaviors of people who are normally considered Marina Bros.
+where x, y, and z were all the frequency of subjectively selected behaviors within the trailing 28 days. Given that some of the variables involved activities normally taken part in during the weekend, 28 days was chosen as the window to keep the number of weekend days constant no matter what day of week a survey was conducted. The index could still be skewed by holidays, but as this was not going to be submitted for publication, I found no need to put further effort into normalizing calendar effects.
 
-This was an entertaining social experiment, but I eventually rejected it as a legitimate statistic due to its subjectivity and its inability to be generalized. However, it did help me come to my first epiphany regarding bros. While creating the Marina Bro Index, my mind was first opened to consider the diversity of bros. What makes someone a Marina Bro is inherently different than what makes someone, for example, a Frat Bro although they are both, ostensibly, bros.
+This was an entertaining social experiment, but I eventually rejected it as a legitimate statistic due to its subjectivity and its inability to be generalized. However, it did help me come to my first epiphany regarding bros. While creating the Marina Bro Index, my mind was first opened to consider the diversity of bros. What makes someone a Marina Bro is inherently different than what makes someone, say, a Frat Bro although they are both, ostensibly, bros.
 
-I explained the methodology behind the Marina Bro Index to a colleage and lamented over its shortcomings. We agreed that the main limitation was rooted in the fact that the variables used to generate the statistic were too specific to Marina Bros. It would be naive to think that even the weights of the variables could be the same between all bros while allowing for the behaviors that the variables represent to vary. After much pontification over the various manifestations of the bro gestalt, the idea for A Taxonomy of Bros was born.
+I explained the methodology behind the Marina Bro Index to a colleage and lamented over its shortcomings. We agreed that the main limitation was rooted in the fact that the variables used to generate the statistic were too specific to Marina Bros. It would be naive to think that even the weights of the variables could be the same between all bros while allowing for the behaviors that the variables represent to vary. Thus, the equation could not be adapted to describe other bros. After much pontification over the various manifestations of the bro gestalt, the idea for A Taxonomy of Bros was born.
 
 Before I begin, a few disclaimers:
 1. This entire post is meant to be <poetic, broetic> hyperbole. Please interpret my findings as such because I am not being serious. 
 2. I am in no way implying fault with that which is bro. In fact, I am a bro myself. The results of my Brocational Examination are presented in the analysis to follow.
-3. In the extremely unlikely event that someone is reading this, you may notice that I only discuss male behaviors in this analysis. The reason for this is simple: I am a man, and as such, possess exactly zero domain expertise in the societal dynamics that govern female interactions. For example, I have not the faintest idea if the concept that is bro even exists in the female vernacular. Apologies for my ignorance. 
+3. In the extremely unlikely event that someone is reading this, you may notice that I only discuss male behaviors in this analysis. The reason for that is simple: I am a man, and as such, possess exactly zero domain expertise in the societal dynamics that govern female interactions. For example, I have not the faintest idea if the concept that is bro even exists in the female vernacular. I apologize for my ignorance, and would have felt it a disservice to attempt to extend this analysis into a world that I don't understand. 
 
-For anyone who wants to know how I did this analysis, there is a link at the bottom of this post to the associated Github repository. It contains details on data sources, model specifications, explanations of parameter tuning, source code, etc.
+For anyone who wants to learn how I did this analysis, there is a link at the bottom of this post to the associated Github repository. It contains details on data sources, model specifications, explanations of parameter tuning, source code, etc. 
 
 
